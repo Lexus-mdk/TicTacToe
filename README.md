@@ -7,8 +7,8 @@
 ## Установка и запуск
 
 1. Убедитесь, что у вас установлен компилятор C++ (например, g++ для Linux или MinGW для Windows)
-2. Скопируйте код в файл `main.cpp`
+2. Скопируйте код в файл `TicTacToe.cpp`
 3. Скомпилируйте программу:
 
 ```bash
-g++ main.cpp -o tic_tac_toe
+g++ TicTacToe.cpp -o tic_tac_toe
